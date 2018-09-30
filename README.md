@@ -1,4 +1,4 @@
-# Home Automation with Arduino Bluetooth and Relay
+# Home Automation with Arduino, Bluetooth and Relay
 This is a simple Home Automation project using the DIY micro-controller (Arduino), Bluetooth Wireless Module and Relay. This setup can be used to control the relay from Android mobile phones using the a Bluetooth client.
 
 ## Step 1: Gather Materials
